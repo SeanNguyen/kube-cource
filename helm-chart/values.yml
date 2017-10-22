@@ -1,0 +1,6 @@
+imageName: "node"
+imageTag: "boron"
+cpu: 100m
+memory: 256Mi
+port: 3000
+replicas: 1
